@@ -43,9 +43,9 @@ public class ContextExample {
 
 		// createDestroySubContext(context);
 
-		// printList(context);
+		printList(context);
 		
-		// printListBindings(context);
+		printListBindings(context);
 		
 		
 		// compositeName();
